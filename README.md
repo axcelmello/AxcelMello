@@ -16,4 +16,5 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/GabrielBBaldez)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://git-scm.com/)
-"[![Progress Database](https://img.shields.io/badge/Progress_Database-black?style=for-the-badge&logo=progress)](https://www.progress.com/progress-products/openedge)"
+[![Progress Database](https://img.shields.io/badge/Progress_Database-black?style=for-the-badge&logo=progress)](https://www.progress.com/progress-products/openedge)
+"[![GoodData](https://img.shields.io/badge/GoodData-black?style=for-the-badge&logo=gooddata)](https://www.gooddata.com/)"
