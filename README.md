@@ -11,10 +11,11 @@
 
 
 ### Tecnologias e Frameworks
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/GabrielBBaldez)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/GabrielBBaldez)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![Progress Database](https://img.shields.io/badge/Progress_Database-black?style=for-the-badge&logo=progress)](https://www.progress.com/progress-products/openedge)
-"[![GoodData](https://img.shields.io/badge/GoodData-black?style=for-the-badge&logo=gooddata)](https://www.gooddata.com/)"
+[![GoodData](https://img.shields.io/badge/GoodData-black?style=for-the-badge&logo=gooddata)](https://www.gooddata.com/)
+[![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/)
