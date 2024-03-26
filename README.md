@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+    <a href="https://www.linkedin.com/in/axcel-mello/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+</p>
 
-<!--
-**axcelmello/AxcelMello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Linguagens
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+[![OpenEdge ABL](https://img.shields.io/badge/OpenEdge_ABL-black?style=for-the-badge&logo=progress)](https://www.progress.com/openedge)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias e Frameworks
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/GabrielBBaldez)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/GabrielBBaldez)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://git-scm.com/)
