@@ -1,8 +1,7 @@
-<p align="center">
-    <a href="https://www.linkedin.com/in/axcel-mello/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-</p>
+### Links
+<a href="https://www.linkedin.com/in/axcel-mello/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
 
 ### Linguagens
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
